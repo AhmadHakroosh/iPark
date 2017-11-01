@@ -1,2 +1,1 @@
-# iPark
-iPark - Intelligent Parking Management System
+# iPark - Intelligent Parking Management System
